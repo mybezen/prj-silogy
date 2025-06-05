@@ -26,8 +26,7 @@ const HeroSlider = () => {
       title: "DECAY",
       subtitle:
         "Sampah organik yang telah busuk dipengaruhi dengan kondisi cuaca dan lingkungan menjadi kompos yang sangat berguna",
-      image:
-        "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop",
+      image: "images/decay.png",
       bgColor: "bg-orange-600",
       textColor: "text-white",
       isDecay: true,
