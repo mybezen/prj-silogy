@@ -1,8 +1,11 @@
 import React from 'react'
+import HeroSlider from '../components/HeroSlider'
 
 function Home() {
   return (
-    <div className='text-blue-200 font-extrabold text-4xl text-center'>Home</div>
+    <div>
+        <HeroSlider></HeroSlider>
+    </div>
   )
 }
 
